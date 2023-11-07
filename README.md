@@ -3,7 +3,7 @@
 
 *LSE Data Science Society Project*
 
-*LSE Business Investment Group Capital*
+*LSE Business Investment Group Capital - Quant Team*
 
 **Week 1-2:**
 ----
