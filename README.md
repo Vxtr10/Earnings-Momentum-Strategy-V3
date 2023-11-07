@@ -1,4 +1,6 @@
 # Stock-Prediction-V3
+*(project in-progress)*
+
 *Expanded model from https://github.com/Vxtr10/ML_stock*
 
 *LSE Data Science Society Project*
