@@ -1,4 +1,4 @@
-# Stock-Prediction-V3
+# Earnings Momentum Strategy
 *(project in-progress)*
 
 *Expanded model from https://github.com/Vxtr10/ML_stock*
